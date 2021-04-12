@@ -22,6 +22,7 @@
 		5CE1C49F2624F6A700AAAB99 /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C49E2624F6A700AAAB99 /* FavoriteButton.swift */; };
 		5CE1C4A52625059C00AAAB99 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C4A42625059C00AAAB99 /* HexagonParameters.swift */; };
 		5CE1C4A9262506FE00AAAB99 /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C4A8262506FE00AAAB99 /* BadgeBackground.swift */; };
+		5CE1C4AD262508F400AAAB99 /* BadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C4AC262508F400AAAB99 /* BadgeSymbol.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		5CE1C49E2624F6A700AAAB99 /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
 		5CE1C4A42625059C00AAAB99 /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 		5CE1C4A8262506FE00AAAB99 /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
+		5CE1C4AC262508F400AAAB99 /* BadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeSymbol.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 			children = (
 				5CE1C4A42625059C00AAAB99 /* HexagonParameters.swift */,
 				5CE1C4A8262506FE00AAAB99 /* BadgeBackground.swift */,
+				5CE1C4AC262508F400AAAB99 /* BadgeSymbol.swift */,
 			);
 			path = Badges;
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 				5CE1C4722624CD6F00AAAB99 /* LandmarksApp.swift in Sources */,
 				5CE1C49F2624F6A700AAAB99 /* FavoriteButton.swift in Sources */,
 				5CE1C4A52625059C00AAAB99 /* HexagonParameters.swift in Sources */,
+				5CE1C4AD262508F400AAAB99 /* BadgeSymbol.swift in Sources */,
 				5CE1C4992624E88200AAAB99 /* LandmarkList.swift in Sources */,
 				5CE1C49C2624EB3600AAAB99 /* LandmarkDetail.swift in Sources */,
 				5CE1C4A9262506FE00AAAB99 /* BadgeBackground.swift in Sources */,
