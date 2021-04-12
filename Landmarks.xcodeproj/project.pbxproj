@@ -24,6 +24,7 @@
 		5CE1C4A9262506FE00AAAB99 /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C4A8262506FE00AAAB99 /* BadgeBackground.swift */; };
 		5CE1C4AD262508F400AAAB99 /* BadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C4AC262508F400AAAB99 /* BadgeSymbol.swift */; };
 		5CE1C4B026250A0D00AAAB99 /* RotatedBadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C4AF26250A0D00AAAB99 /* RotatedBadgeSymbol.swift */; };
+		5CE1C4B326250A5D00AAAB99 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C4B226250A5D00AAAB99 /* Badge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		5CE1C4A8262506FE00AAAB99 /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
 		5CE1C4AC262508F400AAAB99 /* BadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeSymbol.swift; sourceTree = "<group>"; };
 		5CE1C4AF26250A0D00AAAB99 /* RotatedBadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatedBadgeSymbol.swift; sourceTree = "<group>"; };
+		5CE1C4B226250A5D00AAAB99 /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +154,7 @@
 				5CE1C4A8262506FE00AAAB99 /* BadgeBackground.swift */,
 				5CE1C4AC262508F400AAAB99 /* BadgeSymbol.swift */,
 				5CE1C4AF26250A0D00AAAB99 /* RotatedBadgeSymbol.swift */,
+				5CE1C4B226250A5D00AAAB99 /* Badge.swift */,
 			);
 			path = Badges;
 			sourceTree = "<group>";
@@ -227,6 +230,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5CE1C4742624CD6F00AAAB99 /* ContentView.swift in Sources */,
+				5CE1C4B326250A5D00AAAB99 /* Badge.swift in Sources */,
 				5CE1C4852624D38A00AAAB99 /* MapView.swift in Sources */,
 				5CE1C4722624CD6F00AAAB99 /* LandmarksApp.swift in Sources */,
 				5CE1C49F2624F6A700AAAB99 /* FavoriteButton.swift in Sources */,
