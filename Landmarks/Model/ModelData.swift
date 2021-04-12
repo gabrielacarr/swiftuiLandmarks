@@ -4,11 +4,14 @@
 //
 //  Created by Brie New on 4/12/21.
 //
-// Load method relies on return types conformance to protocol
+
 
 import Foundation
+import Combine
 
-var landmarks: [Landmark] = load("landmarkData.json")
+final class ModelData: ObservableObject {
+    @Published var landmarks: [Landmark] = load("landmarkData.json")
+}
 
 func load<T: Decodable>(_ filename: String) -> T {
     let data: Data
