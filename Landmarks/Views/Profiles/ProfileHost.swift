@@ -12,14 +12,20 @@ struct ProfileHost: View {
 
     var body: some View {
             VStack(alignment: .leading, spacing: 20) {
+                HStack {
+                    Spacer()
+                    EditButton()
+                }
+
                 ProfileSummary(profile: draftProfile)
             }
             .padding()
         }
     }
 
-struct ProfileHost_Previews: PreviewProvider {
-    static var previews: some View {
-        ProfileHost()
+    struct ProfileHost_Previews: PreviewProvider {
+        static var previews: some View {
+            ProfileHost()
+                .environmentObject(ModelData())
+        }
     }
-}
