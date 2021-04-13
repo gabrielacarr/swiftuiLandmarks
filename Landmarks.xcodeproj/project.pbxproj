@@ -36,6 +36,7 @@
 		5CE1C4CD2625157100AAAB99 /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C4CC2625157100AAAB99 /* CategoryItem.swift */; };
 		5CE1C4D02625199100AAAB99 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C4CF2625199100AAAB99 /* Profile.swift */; };
 		5CE1C4D426251A2B00AAAB99 /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C4D326251A2B00AAAB99 /* ProfileHost.swift */; };
+		5CE1C4D726251A9C00AAAB99 /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C4D626251A9C00AAAB99 /* ProfileSummary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -70,6 +71,7 @@
 		5CE1C4CC2625157100AAAB99 /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
 		5CE1C4CF2625199100AAAB99 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 		5CE1C4D326251A2B00AAAB99 /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
+		5CE1C4D626251A9C00AAAB99 /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -212,6 +214,7 @@
 			isa = PBXGroup;
 			children = (
 				5CE1C4D326251A2B00AAAB99 /* ProfileHost.swift */,
+				5CE1C4D626251A9C00AAAB99 /* ProfileSummary.swift */,
 			);
 			path = Profiles;
 			sourceTree = "<group>";
@@ -299,6 +302,7 @@
 				5CE1C49F2624F6A700AAAB99 /* FavoriteButton.swift in Sources */,
 				5CE1C4CD2625157100AAAB99 /* CategoryItem.swift in Sources */,
 				5CE1C4C226250C4000AAAB99 /* HikeDetail.swift in Sources */,
+				5CE1C4D726251A9C00AAAB99 /* ProfileSummary.swift in Sources */,
 				5CE1C4A52625059C00AAAB99 /* HexagonParameters.swift in Sources */,
 				5CE1C4D426251A2B00AAAB99 /* ProfileHost.swift in Sources */,
 				5CE1C4B926250BDF00AAAB99 /* Hike.swift in Sources */,
