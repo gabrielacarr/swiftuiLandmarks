@@ -40,6 +40,7 @@
 		5CE1C4DA26251BE100AAAB99 /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C4D926251BE100AAAB99 /* HikeBadge.swift */; };
 		5CE1C4DD2625224200AAAB99 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C4DC2625224200AAAB99 /* ProfileEditor.swift */; };
 		5CE1C4E12625244F00AAAB99 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C4E02625244F00AAAB99 /* PageViewController.swift */; };
+		5CE1C4E52625260100AAAB99 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE1C4E42625260100AAAB99 /* FeatureCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -78,6 +79,7 @@
 		5CE1C4D926251BE100AAAB99 /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
 		5CE1C4DC2625224200AAAB99 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 		5CE1C4E02625244F00AAAB99 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		5CE1C4E42625260100AAAB99 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -232,6 +234,7 @@
 			isa = PBXGroup;
 			children = (
 				5CE1C4E02625244F00AAAB99 /* PageViewController.swift */,
+				5CE1C4E42625260100AAAB99 /* FeatureCard.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -311,6 +314,7 @@
 				5CE1C4D02625199100AAAB99 /* Profile.swift in Sources */,
 				5CE1C4742624CD6F00AAAB99 /* ContentView.swift in Sources */,
 				5CE1C4C7262511D300AAAB99 /* CategoryHome.swift in Sources */,
+				5CE1C4E52625260100AAAB99 /* FeatureCard.swift in Sources */,
 				5CE1C4C126250C4000AAAB99 /* HikeGraph.swift in Sources */,
 				5CE1C4B326250A5D00AAAB99 /* Badge.swift in Sources */,
 				5CE1C4852624D38A00AAAB99 /* MapView.swift in Sources */,
