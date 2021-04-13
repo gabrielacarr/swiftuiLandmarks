@@ -10,4 +10,5 @@
 <p align="left">
   <img height="400" src="https://github.com/gabrielacarr/swiftuiLandmarks/blob/main/demo2.gif" alt=""/>
 
+ <img height="400" src="https://github.com/gabrielacarr/swiftuiLandmarks/blob/main/demo.gif" alt=""/>
 </p>
